@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://android-developers.googleblog.com/2019/11/android-developer-challenge-heres-what.html))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tanay Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://stormotion.io/blog/full-time-developer-vs-freelancer-vs-software-development-company/">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/557883472596905730/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" /> </p>
