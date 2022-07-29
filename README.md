@@ -28,8 +28,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
-<div></div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tanay&show_icons=true&locale=en" alt="dev-tanay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tanay&" alt="dev-tanay" /></p>
