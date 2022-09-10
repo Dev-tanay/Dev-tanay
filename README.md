@@ -16,10 +16,12 @@
 - ☕ **&nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
 
 
+
 <br>
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
   </a>
 <br>
+
 
 
 ## 🌐 Socials :
@@ -85,6 +87,12 @@
 
 
 
-## 💰 You can help me by Donating :
+<a href="https://github.com/Dev-tanay"><img src="https://activity-graph.herokuapp.com/graph?username=Dev-tanay&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanaydas)
+
+
+## Support Me :
+
+<a href="https://www.buymeacoffee.com/tanaydas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
