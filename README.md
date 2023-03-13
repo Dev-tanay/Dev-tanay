@@ -9,7 +9,7 @@
 
 - 🌱 **&nbsp; I’m currently learning -> Full Stack Development.**
 
-- 💬 **&nbsp; Ask me about -> C,C++,HTML,MATLAB.**
+- 💬 **&nbsp; Ask me about -> C,C++,PYTHON,HTML,MATLAB.**
 
 - ⚡ **&nbsp; Fun fact -> I am Funny.**
 
@@ -42,10 +42,12 @@
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/python-00599C?style=flat-square&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Matlab](https://img.shields.io/badge/Matlab-%2331A8FF.svg?style=flat-square&logo=Matlab&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-00599C?style=flat-square&logo=Matlab&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 #### Hosting 
 
@@ -59,7 +61,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
 
-#### SERVERS 
+#### Servers
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
@@ -71,6 +73,10 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+#### Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
