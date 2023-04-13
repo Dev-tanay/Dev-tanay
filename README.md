@@ -5,8 +5,10 @@
 <h3 align="center"><i>A Passionate Frontend Developer From India</i></h3>
 <img align="right" alt="Coding" width="400" src="https://valesh.dev/images/coder.gif">
   
+  
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
   </a>
+  
   
 <h2> 👨🏻‍💻 About Me :</h2>
 
@@ -19,7 +21,6 @@
 - ☕ **&nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
 
 
-
 ## 🌐 Socials :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanay-das-) 
@@ -29,7 +30,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tanay.das.9461799) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tanaydas_77) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/M-TDGaming99)
-
 
 
 ## 💻 Technologies :
@@ -75,12 +75,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-
 ## 📊 GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=Dev-tanay&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-tanay&theme=radical&hide_border=true)<br/>
-
 
 
 ## ✍️ Quote :
@@ -88,9 +86,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-
 ## Support Me :
 
 <a href="https://www.buymeacoffee.com/tanaydas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 
