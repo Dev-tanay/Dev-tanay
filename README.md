@@ -1,26 +1,22 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi , I'm Tanay</h1>
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
+
+
+<h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi there, I'm <a href="https://www.linkedin.com/in/tanay-das-/" target="_blank" rel="noopener noreferrer">Tanay Das</a> 
 <h3 align="center"><i>A Passionate Frontend Developer From India</i></h3>
 <img align="right" alt="Coding" width="400" src="https://valesh.dev/images/coder.gif">
-
-
-
-<h2> 👨🏻‍💻 About Me :</h2>
-
-- 🌱 **&nbsp; I’m currently learning -> Full Stack Development.**
-
-- 💬 **&nbsp; Ask me about -> C,C++,PYTHON,HTML,MATLAB.**
-
-- ⚡ **&nbsp; Fun fact -> I am Funny.**
-
-- ☕ **&nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
-
-
-
-<br>
+  
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
   </a>
-<br>
+  
+<h2> 👨🏻‍💻 About Me :</h2>
+
+- 🌱 **&nbsp; I’m currently learning -> Full Stack Development & Cloud Computing.**
+
+- 💬 **&nbsp; Ask me about -> C, C++, PYTHON, HTML, CSS.**
+
+- ⚡ **&nbsp; I’m currently working on personal projects & Contribute to Open-Source.**
+
+- ☕ **&nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
 
 
 
