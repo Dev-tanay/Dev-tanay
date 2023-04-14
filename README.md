@@ -12,8 +12,8 @@
   
 <h2> 👨🏻‍💻 About Me :</h2>
 
-- 🌱 **&nbsp; I’m currently learning -> Full Stack Development & Cloud Computing.**
-
+- 🌱 **&nbsp; I’m currently learning -> Web Development & Cloud Computing.**
+       
 - 💬 **&nbsp; Ask me about -> C, C++, PYTHON, HTML, CSS.**
 
 - ⚡ **&nbsp; I’m currently working on personal projects & Contribute to Open-Source.**
