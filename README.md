@@ -12,13 +12,13 @@
   
 <h2> 👨🏻‍💻 About Me :</h2>
 
-- 🌱 **&nbsp; I’m currently learning -> Web Development & Cloud Computing.**
+- 🌱 I’m currently learning **Web Dev** & **Cloud Computing**
        
-- 💬 **&nbsp; Ask me about -> C, C++, PYTHON, HTML, CSS.**
+- 💬 Ask me about **C**, **C++**, **PYTHON**, **HTML**, **CSS**
 
-- ⚡ **&nbsp; I’m currently working on personal projects & Contribute to Open-Source.**
+- ⚡ I’m currently working on **personal projects** & **Contribute to Open-Source**
 
-- ☕ **&nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
+- ☕ **I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
 
 
 ## 🌐 Socials :
