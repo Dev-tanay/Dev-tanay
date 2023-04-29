@@ -3,7 +3,7 @@
 
 <h1 align="center"> <img src="https://emoji.discadia.com/emojis/aed5c690-651e-410f-a78d-908c51852f21.gif" width="30px" height="30px"> Hi there, I'm <a href="https://www.linkedin.com/in/tanay-das-/" target="_blank" rel="noopener noreferrer">Tanay Das</a> 
 <h3 align="center"><i>A Passionate Frontend Developer From India</i></h3>
-<img align="right" alt="Coding" width="400" src="https://valesh.dev/images/coder.gif">
+<img align="right" alt="Coding" width="370" src="https://valesh.dev/images/coder.gif">
   
   
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
