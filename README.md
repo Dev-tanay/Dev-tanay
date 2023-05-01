@@ -84,7 +84,25 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dev-tanay&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-tanay&theme=radical&hide_border=true)<br/>
 
+  
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2056%20mins-blue)
+```text
+⌚︎ Time Zone: Asia/Kolkata
 
+💬 Programming Languages: 
+C/C++                    6 hrs 4 mins        ███████████████████████░░   94.05% 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+
+🔥 Editors: 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  6 hrs 27 mins       █████████████████████████   100.0%
+
+```
+  
+  
 ## ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
