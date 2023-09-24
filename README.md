@@ -1,25 +1,22 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tanay-das-/" target="_blank" rel="noopener noreferrer"> Tanay Das </a> <img src="https://media.giphy.com/media/3d2yl0QuHpHdYtfwVh/giphy.gif" width="30"> </samp>
-  
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tanay-das-/" target="_blank" rel="noopener noreferrer"> Tanay Das </a> <img src="https://media.giphy.com/media/E6U8Pd6bzotoP9Wqz4/giphy.gif" width="55"> </samp>
 <h3 align="center"><i>A Passionate Frontend Developer From India</i></h3>
 <img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
   
   
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=dev-tanay&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tanay" />
   
   
 <h2> 👨🏻‍💻 About Me :</h2>
 
-- 🌱 I’m currently learning **Web Dev** & **Cloud Computing**
-       
-- 💬 Ask me about **C**, **C++**, **PYTHON**, **HTML**, **CSS**
-
-- ⚡ I’m currently working on **personal projects** & **Contribute to Open-Source**
-
-- ☕ **I belive, a perfect cup of coffee can be the ultimate solution for any stress.** 
+- 🌱 I’m currently learning **Web Dev & Cloud Computing**
+- 💬 Ask me about **C, C++, PYTHON, JAVA, HTML, CSS, JS**
+- 📝 I’m currently working on **personal projects & Contribute to Open-Source**
+- 👨‍💻 All of my projects are available at **[Tanay Das](https://tanaydas.netlify.app)**
+- 📫 How to reach me **tanaydas850@gmail.com**
+- ☕ I belive, **a perfect cup of coffee can be the ultimate solution for any stress.**
 
 
 ## 🌐 Socials :
@@ -82,8 +79,8 @@
 
 ## 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Dev-tanay&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-tanay&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dev-tanay&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-tanay&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
@@ -107,7 +104,7 @@ Windows                  6 hrs 27 mins       ███████████�
   
 ## ✍️ Quote :
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## Support Me :
