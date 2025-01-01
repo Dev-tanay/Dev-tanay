@@ -15,7 +15,7 @@
 - 💬 Ask me about **C, C++, PYTHON, JAVA, HTML, CSS, JS**
 - 📝 I’m currently working on **personal projects & Contribute to Open-Source**
 - 👨‍💻 All of my projects are available at **[Tanay Das](https://tanaydas.netlify.app)**
-- 📫 How to reach me **tanaydas850@gmail.com**
+- 📫 How to reach me **connect.tanay@gmail.com**
 - ☕ I belive, **a perfect cup of coffee can be the ultimate solution for any stress.**
 
 
